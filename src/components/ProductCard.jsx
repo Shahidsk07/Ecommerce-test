@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { addCart } from '../redux/action';
+import Carousel from 'react-material-ui-carousel';
 // Import your cart action here
 // import { addToCart } from '../redux/action/cartActions';
 
